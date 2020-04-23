@@ -9,7 +9,7 @@
 # ![AltText](https://github.com/natasyaadelia/akhir/blob/master/4.JPG)
 # ![AltText](https://github.com/natasyaadelia/akhir/blob/master/5.JPG)
 #Kemudian isi data 
-# ![AltText](https://github.com/natasyaadelia/akhir/blob/master/5.JPG)
+# ![AltText](https://github.com/natasyaadelia/akhir/blob/master/akhir.JPG)
 #Ada perubahan pasien
-# ![AltText](https://github.com/natasyaadelia/akhir/blob/master/5.JPG)
+# ![AltText](https://github.com/natasyaadelia/akhir/blob/master/akhirr.JPG)
 'Logout' akan memunculkan pada halaman login lagi
